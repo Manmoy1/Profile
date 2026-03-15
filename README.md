@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a research paper named **Federated Learning, Media/Memetics Research, AI for Speech & Behaviour**
 
-- 🌱 I’m currently learning **Advanced Excel**
+- 🌱 I’m currently learning **Advanced Excel and Java Script**
 
 - 📑 Actively publishing research and filing patents in **AI/ML & media studies**
 
