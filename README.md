@@ -13,7 +13,7 @@
 
 - Studying [B.E. Computer Science Engineering @ Chandigarh University](B.E. Computer Science Engineering @ Chandigarh University)
 
-- 💼 Open to roles: **Data Science, ML Engineer, Research Intern**
+- 💼 Open to roles: **Developer, Data Science, ML Engineer, Research Intern**
 
 - 📫 How to reach me **manmoykhastagir@gmail.com**
 
